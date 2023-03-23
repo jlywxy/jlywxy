@@ -1,13 +1,13 @@
-<img src="jwr-banner-gh.png" style="background:none; border:none; box-shadow:none; margin:-10px;" />
+<img src="jwr-banner-gh.png" style="background:none; border:none; box-shadow:none; margin:-15px;" />
 
 <b>jlywxy</b><br>
-- --
+<div style="background-color:#606060; height:2px;"></div>
 📧mail: jlywxy@outlook.com<br>
 🔨Tech: Embedded Software/Hardware(Electronics), Mobile/PC Application(iOS, Electron, Golang).<br>
 💻Job: (nil,finding)<br>
 
 <b>Working Projects</b><br>
-- --
+<div style="background-color:#606060; height:2px;"></div>
 🌰SlimARM: ARM core boards. <a href="//github.com/jlywxy/slimarm">slimarm</a><br>
 💡Color SPU Strip: A sound-pickup light strip. <a href="//github.com/jlywxy/color-spu-strip">color-spu-strip</a><br>
 🖥LCD interface tests:<br>
