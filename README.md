@@ -1,4 +1,4 @@
-<img src="jwr-banner-gh.png" style="background:none; border:none; box-shadow:none; margin:-50px;" />
+<img src="jwr-banner-gh.png" style="background:none; border:none; box-shadow:none; margin:-0px;" />
 <br>
 <b>jlywxy</b><br>
 <br>
