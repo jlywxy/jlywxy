@@ -1,4 +1,4 @@
-![banner](jwr-banner.jpg)
+![banner](jwr-banner-gh.jpg)
 # jlywxy
 📧: jlywxy@outlook.com<br>
 Tech: Embedded Software/Hardware(Electronics), Mobile/PC Application(iOS, Electron, Golang).<br>
