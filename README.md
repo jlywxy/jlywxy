@@ -1,11 +1,9 @@
 <img src="jwr-banner.jpg" />
 
-### jlywxy
+# jlywxy
 📧 jlywxy@outlook.com<br>
-## Tech
-Embedded Software/Hardware, Mobile Application.<br>
-## Job
-(nil,finding)<br>
+Tech: Embedded Software/Hardware(Electronics), PC/Mobile Application(iOS,Golang).<br>
+Job: (nil,finding)<br>
 ## Working Projects
 * SlimARM: ARM core boards. <a href="github.com/jlywxy/slimarm">slimarm</a><br>
 * Color SPU Strip: A sound-pickup light strip. <a href="github.com/jlywxy/color-spu-strip">color-spu-strip</a><br>
