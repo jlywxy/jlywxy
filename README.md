@@ -1,5 +1,5 @@
-<img src="jwr-banner-gh.png" style="background:none; border:none; box-shadow:none; margin:-0px;" />
-<br>
+<img src="jwr-banner-gh.png" style="background:none; border:none; box-shadow:none; margin:-20px;" />
+
 <b>jlywxy</b><br>
 <br>
 📧mail: jlywxy@outlook.com<br>
