@@ -1,5 +1,5 @@
 <img src="jwr-banner-gh.png" style="background:none; border:none; box-shadow:none; margin:-20px;"></img>
-<b>jlywxy</b><br>             jwr.gh-x145-any_any-v1r3
+<b>jlywxy</b>             jwr.gh-x145-any_any-v1r3<br>
 📧Mail: jlywxy@outlook.com<br>
 🔨Tech: Embedded Software/Hardware(Electronics), <br>
         Mobile/PC Application(iOS, Golang), <br>
