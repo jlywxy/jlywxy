@@ -1,5 +1,5 @@
 <img src="jwr-banner-gh.png" style="background:none; border:none; box-shadow:none; margin:-20px;"></img>
-<b>jlywxy</b><br>
+<b>jlywxy</b>                      jwr.gh-x145-any_any-v1r3<br>
 📧Mail: jlywxy@outlook.com<br>
 🔨Tech: Embedded Software/Hardware(Electronics), <br>
         Mobile/PC Application(iOS, Golang), <br>
@@ -14,4 +14,4 @@ LS050T1SX01(Sharp,DSI)+SSD2828. 🔗<a href="//github.com/jlywxy/mipi-lcd-sharp-
 A030DW01(AUO,RGB8)+FPGA. 🔗<a href="//github.com/jlywxy/parallel-lcd-auo-fpga">parallel-lcd-auo-fpga</a><br>
 G070VW01(AUO,LVDS)+FPGA. 🔗<a href="//github.com/jlywxy/lvds-lcd-auo-fpga">lvds-lcd-auo-fpga</a><br>
 📝Ax.js: A Web-Frontend HTML-Free Bare-Metal Framework. 🔗<a href="//github.com/jlywxy/ax.js">ax.js</a><br>
-⬇️ More projects                <div style="fone-size: 10px;">jwr.gh-x145-any_any-v1r3</div>
+⬇️ More projects
