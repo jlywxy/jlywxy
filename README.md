@@ -1,7 +1,7 @@
 <img src="jwr-banner-gh.png" style="background:none; border:none; box-shadow:none; margin:-20px;"></img>
 <b>jlywxy</b><br>
 📧Mail: jlywxy@outlook.com<br>
-🔨Tech: 🎛️Embedded Software(C,FPGA,ARM MCU/MPU,Linux)/Hardware(Electronics), 📱Mobile/PC Application(iOS,Electron), 🕸️Web(HTML&CSS,non-Vue/React;Golang,Node.js)<br>
+🔨Tech: 🎛️Embedded Software(C,ARM MCU/MPU,Linux)/Hardware(FPGA,Electronics), 📱Mobile/PC Application(iOS,Electron), 🕸️Web(HTML&CSS,non-Vue/React;Golang,Node.js)<br>
 🧰Job: (finding)<br>
 _______________<br>
 <b>Working Projects</b><br>
