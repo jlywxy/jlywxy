@@ -2,7 +2,7 @@
 Do not submit issue or fork while renovating.<br>
 
 <img src="github-header.png"></img>
-<div dir='rtl' style="display: inline">J2N23X196AAG</div>
+<div dir='rtl'>J2N23X196AAG</div>
 
 ## jlywxy
 
