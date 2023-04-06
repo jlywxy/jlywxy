@@ -1,9 +1,9 @@
 ![](github-header.png) 
 <b>jlywxy</b><br>
-<b>Email</b>&emsp;jlywxy@outlook.com<br>
-<b>Tech</b>&emsp;Embedded, iOS<br>
-<b>Job</b>&emsp;none<br>
-<b>Projects</b>&emsp;...<br>
+📧Email:&emsp;jlywxy@outlook.com<br>
+🔧Tech:&emsp;Embedded, iOS<br>
+💼Job:&emsp;none<br>
+⚙️Projects:&emsp;...<br>
 <div dir='rtl'>J2N23X196AAG</div>
 
 - --
