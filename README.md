@@ -5,7 +5,6 @@ Do not submit issue or fork while renovating.<br>
 <div dir='rtl'>J2N23X196AAG</div><br>
 
 ## jlywxy <br>
-- --
 <b>Email</b>&emsp;jlywxy@outlook.com<br>
 <b>Tech</b>&emsp;Embedded, iOS<br>
 <b>Job</b>&emsp;none<br>
