@@ -2,9 +2,9 @@
 Do not submit issue or fork while renovating.<br>
 
 <img src="github-header.png" /><br>
-<div dir='rtl'>J2N23X196AAG</div>
-<b>jlywxy</b>
-Email|jlywxy@outlook.com
-Tech|Embedded, iOS
-Job|none
-Projects|...
+<div dir='rtl'>J2N23X196AAG</div><br>
+<b>jlywxy</b><br>
+Email|jlywxy@outlook.com<br>
+Tech|Embedded, iOS<br>
+Job|none<br>
+Projects|...<br>
