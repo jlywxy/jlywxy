@@ -4,7 +4,7 @@ Do not submit issue or fork while renovating.<br>
 <img src="github-header.png" /><br>
 <div dir='rtl'>J2N23X196AAG</div><br>
 <b>jlywxy</b><br>
-Email|jlywxy@outlook.com<br>
-Tech|Embedded, iOS<br>
-Job|none<br>
-Projects|...<br>
+<b>Email</b>&emsp;jlywxy@outlook.com<br>
+<b>Tech</b>&emsp;Embedded, iOS<br>
+<b>Job</b>&emsp;none<br>
+<b>Projects</b>&emsp;...<br>
