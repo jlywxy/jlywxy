@@ -1,8 +1,8 @@
-<b>Note: this account is now under renovation. The repos are invisible in a several days.<b><br>
+<b>Note: this account is now under renovation. The repos are invisible in a several days.</b><br>
 Do not submit issue or fork while renovating.<br>
 
 <img src="github-header.png" /><br>
-<div style="text-align: right">J2N23X196AAG</div>
+<div dir='rtl'>J2N23X196AAG</div>
 <b>jlywxy</b>
 
 |||
